@@ -5,7 +5,7 @@ This repository provides a physics-informed learning workflow for **history-depe
 * **Forward task:** predict/reconstruct the spatiotemporal response fields (displacement, and derived strain/stress) under prescribed loading and temperature schedules.
 * **Inverse task:** identify constitutive parameters from sparse observations (field samples and/or boundary observables such as reaction force), while enforcing the same governing constraints used in the forward task.
 
-The benchmark suite contains **four representative examples (Ex1–Ex4)** that form a progressive validation ladder from homogeneous to heterogeneous fields, and from isothermal to non-isothermal identification.
+The benchmark suite contains **four representative examples ** that form a progressive validation ladder from homogeneous to heterogeneous fields, and from isothermal to non-isothermal identification.
 
 ---
 
