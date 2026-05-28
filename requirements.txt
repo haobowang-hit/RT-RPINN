@@ -1,0 +1,18 @@
+# SMPCPINN - Shape Memory Polymer Composite Physics-Informed Neural Network
+# Required Python packages for training and evaluation
+
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Deep learning framework (PyTorch)
+# For CUDA support, visit: https://pytorch.org/get-started/locally/
+torch>=1.10.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine learning utilities
+scikit-learn>=0.24.0
