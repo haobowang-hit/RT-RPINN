@@ -9,6 +9,7 @@ This repository contains the code accompanying the paper:
 **Inverse Identification of Thermo-Viscoelastic Constitutive Parameters in Shape Memory Polymer Composites by Physics-Informed Neural Networks**
 
 The work focuses on a mechanics problem: identifying thermo-viscoelastic constitutive parameters of SMPCs under history-dependent thermo-mechanical loading, with emphasis on physical consistency, parameter observability, and robustness across random seeds.
+![Overview](Overview.png)
 
 ## Mechanical Problem Statement
 Shape memory polymer composites exhibit strong coupling among:
