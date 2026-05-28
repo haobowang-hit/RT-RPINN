@@ -1,7 +1,7 @@
 # Inverse Identification of Thermo-Viscoelastic Constitutive Parameters in Shape Memory Polymer Composites by Physics-Informed Neural Networks
 
 ## Authors
-Haobo Wang 
+Wang Haobo, Harbin Institute of Technology (HIT), Harbin, China, wanghaobohit@163.com
 
 ## Overview
 This repository contains the code accompanying the paper:
