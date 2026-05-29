@@ -1,4 +1,4 @@
-# Inverse Identification of Thermo-Viscoelastic Constitutive Parameters in Shape Memory Polymer Composites by Physics-Informed Neural Networks
+# Constitutively embedded physics-informed learning for forward reconstruction and inverse identification of thermo-viscoelastic shape memory polymer composites
 
 ## Authors
 Wang Haobo, Harbin Institute of Technology (HIT), Harbin, China, wanghaobohit@163.com
@@ -6,7 +6,7 @@ Wang Haobo, Harbin Institute of Technology (HIT), Harbin, China, wanghaobohit@16
 ## Overview
 This repository contains the code accompanying the paper:
 
-**Inverse Identification of Thermo-Viscoelastic Constitutive Parameters in Shape Memory Polymer Composites by Physics-Informed Neural Networks**
+**Constitutively embedded physics-informed learning for forward reconstruction and inverse identification of thermo-viscoelastic shape memory polymer compositess**
 
 The work focuses on a mechanics problem: identifying thermo-viscoelastic constitutive parameters of SMPCs under history-dependent thermo-mechanical loading, with emphasis on physical consistency, parameter observability, and robustness across random seeds.
 ![Overview](Overview.png)
