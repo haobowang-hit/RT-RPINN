@@ -1,13 +1,9 @@
-# Physics-informed learning for forward reconstruction and inverse identification of thermo-viscoelastic shape memory polymer composites
+# Constitutively embedded physics-informed learning for forward analysis and inverse identification of thermo-viscoelastic shape memory polymer composites
 
 ## Authors
 Wang Haobo, Harbin Institute of Technology (HIT), Harbin, China, wanghaobohit@163.com
 
 ## Overview
-This repository contains the code accompanying the paper:
-
-**Physics-informed learning for forward reconstruction and inverse identification of thermo-viscoelastic shape memory polymer compositess**
-
 The work focuses on a mechanics problem: identifying thermo-viscoelastic constitutive parameters of SMPCs under history-dependent thermo-mechanical loading, with emphasis on physical consistency, parameter observability, and robustness across random seeds.
 ![Overview](Overview.png)
 
