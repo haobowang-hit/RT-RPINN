@@ -42,8 +42,10 @@ Reaction-force supervision is treated as an additional observable, not as a univ
 - **EX2:** Inverse identification under isothermal ramp-hold stress-relaxation loading.
 - **EX3:** Forward reconstruction in a heterogeneous stress/strain field case.
 - **EX4:** Inverse identification under non-isothermal loading, including multi-seed RF/no-RF evaluation.
+- **EX5:** Bending-dominated SMPC validation, including curvature-driven forward reconstruction and inverse identification from structural recovery observations.
+  
+Together, these examples examine displacement-field accuracy, derived strain/stress sensitivity, mechanical relaxation identification, thermal-shift identifiability, bending-dominated recovery behavior, and the role of reaction-force observables.
 
-Together, these examples examine displacement-field accuracy, derived strain/stress sensitivity, mechanical relaxation identification, thermal-shift identifiability, and the role of reaction-force observables.
 
 ## Repository Structure
 
@@ -52,6 +54,7 @@ EX1/                 Forward non-isothermal shape-memory benchmark
 EX2/                 Isothermal inverse stress-relaxation benchmark
 EX3/                 Heterogeneous forward reconstruction benchmark
 EX4/                 Non-isothermal inverse benchmark and multi-seed analysis
+EX5/                 Bending-dominated SMPC validation benchmark
 requirements.txt     Python dependency list
 datasavebystep.py    Utility for step-wise data export and organization
 umat.for             Fortran UMAT-side constitutive implementation
