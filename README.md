@@ -66,10 +66,4 @@ Overview.png         Schematic overview of the framework
 
 The examples are designed as controlled computational benchmarks. Reference responses are generated from finite-element/constitutive simulations so that reconstruction errors, parameter bias, and identifiability trends can be evaluated against known material parameters.
 
-When using or extending the code, please report:
 
-- the observation density and time-frame sampling strategy,
-- whether reaction-force supervision is used,
-- the random seeds used for inverse identification,
-- the trainable constitutive parameter subset,
-- the material parameters and temperature-loading programme.
