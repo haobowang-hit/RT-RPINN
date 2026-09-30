@@ -44,7 +44,6 @@ The benchmarks cover constitutive-state accuracy, relaxation behavior, heterogen
 - `datasavebystep.py` — Simulation data export utility.
 - `umat.for` — Fortran constitutive implementation.
 - `materialtable.txt` — Material parameters.
-- `Overview.png` — Framework illustration.
 
 ## Notes
 
