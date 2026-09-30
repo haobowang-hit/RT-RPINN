@@ -12,7 +12,6 @@ RT-RPINN separates instantaneous structural-field approximation from constitutiv
 
 The framework supports displacement-based and first-order mixed-field formulations for forward reconstruction and inverse constitutive identification.
 
-![Overview](Overview.png)
 
 ## Method
 
